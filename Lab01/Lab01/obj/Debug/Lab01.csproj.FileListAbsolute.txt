@@ -1,0 +1,9 @@
+C:\Users\nhtru\Desktop\Lab git\Lab01\Lab01\bin\Debug\Lab01.exe.config
+C:\Users\nhtru\Desktop\Lab git\Lab01\Lab01\bin\Debug\Lab01.exe
+C:\Users\nhtru\Desktop\Lab git\Lab01\Lab01\bin\Debug\Lab01.pdb
+C:\Users\nhtru\Desktop\Lab git\Lab01\Lab01\obj\Debug\Lab01.csproj.AssemblyReference.cache
+C:\Users\nhtru\Desktop\Lab git\Lab01\Lab01\obj\Debug\Lab01.Properties.Resources.resources
+C:\Users\nhtru\Desktop\Lab git\Lab01\Lab01\obj\Debug\Lab01.csproj.GenerateResource.cache
+C:\Users\nhtru\Desktop\Lab git\Lab01\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+C:\Users\nhtru\Desktop\Lab git\Lab01\Lab01\obj\Debug\Lab01.exe
+C:\Users\nhtru\Desktop\Lab git\Lab01\Lab01\obj\Debug\Lab01.pdb
