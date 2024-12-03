@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\nhtru\\Desktop\\Lab git\\Lab01_01\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{79FD4D90-3ACB-41BD-BC73-B86737B47A29}|Lab01_02\\Lab01_02.csproj|c:\\users\\nhtru\\desktop\\lab git\\lab01_01\\lab01_02\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FD4D90-3ACB-41BD-BC73-B86737B47A29}|Lab01_02\\Lab01_02.csproj|solutionrelative:lab01_02\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD4D90-3ACB-41BD-BC73-B86737B47A29}|Lab01_02\\Lab01_02.csproj|c:\\users\\nhtru\\desktop\\lab git\\lab01_01\\lab01_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FD4D90-3ACB-41BD-BC73-B86737B47A29}|Lab01_02\\Lab01_02.csproj|solutionrelative:lab01_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B30E91FE-7DEF-4492-A0A0-6E66E0F71806}|Lab01_01\\Lab01_01.csproj|c:\\users\\nhtru\\desktop\\lab git\\lab01_01\\lab01_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B30E91FE-7DEF-4492-A0A0-6E66E0F71806}|Lab01_01\\Lab01_01.csproj|solutionrelative:lab01_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\nhtru\\Desktop\\Lab git\\Lab01_01\\Lab01_02\\Student.cs",
+              "RelativeDocumentMoniker": "Lab01_02\\Student.cs",
+              "ToolTip": "C:\\Users\\nhtru\\Desktop\\Lab git\\Lab01_01\\Lab01_02\\Student.cs",
+              "RelativeToolTip": "Lab01_02\\Student.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:16:39.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nhtru\\Desktop\\Lab git\\Lab01_01\\Lab01_02\\Program.cs",
+              "RelativeDocumentMoniker": "Lab01_02\\Program.cs",
+              "ToolTip": "C:\\Users\\nhtru\\Desktop\\Lab git\\Lab01_01\\Lab01_02\\Program.cs",
+              "RelativeToolTip": "Lab01_02\\Program.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAIwJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:16:12.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nhtru\\Desktop\\Lab git\\Lab01_01\\Lab01_01\\Program.cs",
               "RelativeDocumentMoniker": "Lab01_01\\Program.cs",
               "ToolTip": "C:\\Users\\nhtru\\Desktop\\Lab git\\Lab01_01\\Lab01_01\\Program.cs",
               "RelativeToolTip": "Lab01_01\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAgwC0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T02:44:56.96Z",
               "EditorCaption": ""
